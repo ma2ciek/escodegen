@@ -28,10 +28,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/estools/escodegen.git"
+        "url": "https://github.com/ma2ciek/escodegen.git"
     },
     "dependencies": {
-        "estraverse": "^1.9.1",
+        "estraverse": "^4.2.0",
         "esutils": "^2.0.2",
         "esprima": "^2.7.1",
         "optionator": "^0.8.1"
@@ -40,7 +40,7 @@
         "source-map": "~0.2.0"
     },
     "devDependencies": {
-        "acorn": "^2.7.0",
+        "acorn": "^4.0.8",
         "bluebird": "^2.3.11",
         "bower-registry-client": "^0.2.1",
         "chai": "^1.10.0",
